@@ -17,3 +17,7 @@
 <a href ="https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo3.ipynb"> Actividad limpieza de datos </a>
 
 </div>
+
+<a href="https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb"> Primer avance del proyecto </a>
+
+</div>
