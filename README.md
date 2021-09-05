@@ -22,4 +22,4 @@
 
 </div>
 
-<a href="https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf"> Presentación sobre Reglas de asociación </a>
+<a href="https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf"> Presentación sobre reglas de asociación </a>
