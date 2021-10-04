@@ -28,3 +28,7 @@ Tarea 6: <a href="https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci
 </div>
 
 Tarea 7: <a href="https://github.com/xthaliax/mineriaa/blob/main/Visualizacion_Equipo3.ipynb"> Práctica visualización </a>
+
+</div>
+
+Tarea 8: <a href="https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3.ipynb"> Segundo avance del proyecto </a>
