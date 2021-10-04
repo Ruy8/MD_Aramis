@@ -2,7 +2,7 @@
 
 ## Fase 1
 
-<a href="https://github.com/Ruy8/RuyAramis_Mineria/blob/main/MapaMental_1_1863861.pdf"> Mapa Mental </a>
+Tarea 1: <a href="https://github.com/Ruy8/RuyAramis_Mineria/blob/main/MapaMental_1_1863861.pdf"> Mapa Mental </a>
 
 </div>
 
@@ -20,6 +20,11 @@
 
 <a href="https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb"> Primer avance del proyecto </a>
 
-</div>
+
+## Fase 2
 
 <a href="https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf"> Presentación sobre reglas de asociación </a>
+
+</div>
+
+<a href="https://github.com/xthaliax/mineriaa/blob/main/Visualizacion_Equipo3.ipynb"> Práctica visualización </a>
