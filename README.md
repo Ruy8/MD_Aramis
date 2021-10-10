@@ -31,4 +31,4 @@ Tarea 7: <a href="https://github.com/xthaliax/mineriaa/blob/main/Visualizacion_E
 
 </div>
 
-Tarea 8: <a href="https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3.ipynb"> Segundo avance del proyecto </a>
+Tarea 8: <a href="https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3_Mod.ipynb"> Segundo avance del proyecto </a>
