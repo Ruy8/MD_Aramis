@@ -36,3 +36,7 @@ Tarea 8: <a href="https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/En
 </div>
 
 Tarea 9: <a href="https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Equipo3_T%C3%A9cnicas.ipynb"> Ejercicios de técnicas de mineria </a>
+
+</div>
+
+Tarea 10: <a href="https://github.com/xthaliax/mineriaa/blob/main/notebookfinal.ipynb"> Notebook final </a>
