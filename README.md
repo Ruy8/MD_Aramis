@@ -37,4 +37,10 @@ Tarea 8: <a href="https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/En
 
 Tarea 9: <a href="https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Equipo3_T%C3%A9cnicas.ipynb"> Ejercicios de técnicas de mineria </a>
 
-</div>
+## Fase 3
+
+Tarea 10: <a href="https://github.com/xthaliax/mineriaa/blob/main/P%C3%B3ster%20-%20Equipo%203.pdf"> Póster </a>
+
+</div> 
+
+Tarea 11: <a href="https://github.com/xthaliax/mineriaa/blob/main/Notebook%20-%20equipo%203.ipynb"> Notebook Final </a>
